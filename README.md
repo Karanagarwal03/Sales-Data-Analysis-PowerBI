@@ -67,10 +67,10 @@ The dashboard enables stakeholders to:
 
 ## Demo Dashbord
 
-<img width="1917" height="1019" alt="Screenshot 2026-04-26 212930" src="https://github.com/user-attachments/assets/8a187b4a-cdde-4736-b90c-056cc9434414" />
-<img width="1919" height="1019" alt="Screenshot 2026-04-26 212950" src="https://github.com/user-attachments/assets/3cec89d7-92fa-4524-87d0-305e70e6877f" />
-<img width="1919" height="1019" alt="Screenshot 2026-04-26 212950" src="https://github.com/user-attachments/assets/739f5257-6e01-4bbc-b01e-c0ea22fd540a" />
-<img width="1917" height="1019" alt="Screenshot 2026-04-26 212930" src="https://github.com/user-attachments/assets/9e47de9c-e80d-4d2b-84ef-6ad2ae4e79d8" />
+<img width="1000" height="700" alt="Screenshot 2026-04-26 212930" src="https://github.com/user-attachments/assets/8a187b4a-cdde-4736-b90c-056cc9434414" />
+
+<img width="1000" height="700" alt="Screenshot 2026-04-26 212950" src="https://github.com/user-attachments/assets/3cec89d7-92fa-4524-87d0-305e70e6877f" />
+
 
 
 
