@@ -72,14 +72,19 @@ The dashboard enables stakeholders to:
 <img width="1000" height="700" alt="Screenshot 2026-04-26 212950" src="https://github.com/user-attachments/assets/3cec89d7-92fa-4524-87d0-305e70e6877f" />
 
 
+## 💼 About Me
 
+**Karan Agarwal**
+ Data Analyst Intern
 
+🔹 Skills: SQL | Python | Power BI
+🔹 Passion: Data Visualization & Business Insights
+
+🔗 GitHub: https://github.com/Karanagarwal03
+🔗 LinkedIn: www.linkedin.com/in/karan-agarwal-2b7325304
 
 ---
-## 🌟 About Me
-Aspiring Data Analyst skilled in SQL, Power BI, and Python, passionate about turning raw data into meaningful insights.
 
----
+## ⭐ Support
 
-## 🔗 Connect With Me
-(Add your LinkedIn profile link here)
+If you found this project useful, give it a ⭐ on GitHub!
